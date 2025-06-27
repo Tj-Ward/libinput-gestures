@@ -15,8 +15,6 @@ BuildRequires:  systemd
 
 Requires:       libinput, libinput-utils
 Requires:       python3 >= 3.8
-Requires:       wmctrl
-Requires:       xdotool
 
 %description
 Libinput-gestures is a utility which reads libinput gestures from your touchpad
