@@ -1,3 +1,5 @@
 # Fedora COPR spec file
 
-copr.fedorainfracloud.org/coprs/tjward/libinput-gestures/
+COPR Location:  copr.fedorainfracloud.org/coprs/tjward/libinput-gestures
+
+Original project:  https://github.com/bulletmark/libinput-gestures
