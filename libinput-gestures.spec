@@ -51,5 +51,5 @@ desktop-file-validate %{buildroot}%{_datadir}/applications/%{name}.desktop
 %config(noreplace) %{_sysconfdir}/%{name}.conf
 
 %changelog
-* Thu 2025 Tj-Ward <tjw.ward@gmail.com> - 2.80-1
+* Thu 2025 Tj-Ward <tjw.ward@gmail.com> - 2.81-1
 - Initial commit
