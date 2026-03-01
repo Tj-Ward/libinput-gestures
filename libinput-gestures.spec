@@ -1,5 +1,5 @@
 Name:           libinput-gestures
-Version:        2.80
+Version:        2.81
 Release:        2%{?dist}
 
 Summary:        Actions gestures on your touchpad using libinput
